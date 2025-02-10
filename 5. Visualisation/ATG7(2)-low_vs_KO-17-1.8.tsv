@@ -1,0 +1,380 @@
+ENSEMBL	Symbol	Description	Biotype
+ENSG00000186919	ZACN	zinc activated ion channel	protein_coding
+ENSG00000173706	HEG1	heart development protein with EGF like domains 1	protein_coding
+ENSG00000167779	IGFBP6	insulin like growth factor binding protein 6	protein_coding
+ENSG00000119938	PPP1R3C	protein phosphatase 1 regulatory subunit 3C	protein_coding
+ENSG00000140398	NEIL1	nei like DNA glycosylase 1	protein_coding
+ENSG00000196159	FAT4	FAT atypical cadherin 4	protein_coding
+ENSG00000267149		novel transcript	lncRNA
+ENSG00000249437	NAIP	NLR family apoptosis inhibitory protein	protein_coding
+ENSG00000228242	XPC-AS1	XPC antisense RNA 1	lncRNA
+ENSG00000260555		novel transcript	lncRNA
+ENSG00000183908	LRRC55	leucine rich repeat containing 55	protein_coding
+ENSG00000075826	SEC31B	SEC31 homolog B, COPII coat complex component	protein_coding
+ENSG00000131044	TTLL9	tubulin tyrosine ligase like 9	protein_coding
+ENSG00000251152		novel transcript	lncRNA
+ENSG00000135473	PAN2	poly(A) specific ribonuclease subunit PAN2	protein_coding
+ENSG00000124406	ATP8A1	ATPase phospholipid transporting 8A1	protein_coding
+ENSG00000122012	SV2C	synaptic vesicle glycoprotein 2C	protein_coding
+ENSG00000165338	HECTD2	HECT domain E3 ubiquitin protein ligase 2	protein_coding
+ENSG00000140030	GPR65	G protein-coupled receptor 65	protein_coding
+ENSG00000235703	EOLA2-DT	EOLA2 divergent transcript	lncRNA
+ENSG00000095585	BLNK	B cell linker	protein_coding
+ENSG00000212939		novel transcript	lncRNA
+ENSG00000213886	UBD	ubiquitin D	protein_coding
+ENSG00000227733		novel transcript	lncRNA
+ENSG00000260711		novel transcript, intronic to CATSPERB	lncRNA
+ENSG00000269821	KCNQ1OT1	KCNQ1 opposite strand/antisense transcript 1	lncRNA
+ENSG00000286912		novel transcript	lncRNA
+ENSG00000162814	SPATA17	spermatogenesis associated 17	protein_coding
+ENSG00000145431	PDGFC	platelet derived growth factor C	protein_coding
+ENSG00000117834	SLC5A9	solute carrier family 5 member 9	protein_coding
+ENSG00000138131	LOXL4	lysyl oxidase like 4	protein_coding
+ENSG00000291032		novel transcript	lncRNA
+ENSG00000254995	STX16-NPEPL1	STX16-NPEPL1 readthrough (NMD candidate)	protein_coding
+ENSG00000109743	BST1	bone marrow stromal cell antigen 1	protein_coding
+ENSG00000261949	GFY	golgi associated olfactory signaling regulator	protein_coding
+ENSG00000187867	PALM3	paralemmin 3	protein_coding
+ENSG00000227507	LTB	lymphotoxin beta	protein_coding
+ENSG00000281344	HELLPAR	HELLP associated long non-coding RNA	lncRNA
+ENSG00000158023	CFAP251	cilia and flagella associated protein 251	protein_coding
+ENSG00000134321	RSAD2	radical S-adenosyl methionine domain containing 2	protein_coding
+ENSG00000280213	UCKL1-AS1	UCKL1 antisense RNA 1	lncRNA
+ENSG00000271959		novel transcript, antisense to MROH5	lncRNA
+ENSG00000138449	SLC40A1	solute carrier family 40 member 1	protein_coding
+ENSG00000070404	FSTL3	follistatin like 3	protein_coding
+ENSG00000132122	SPATA6	spermatogenesis associated 6	protein_coding
+ENSG00000181499	OR6T1	olfactory receptor family 6 subfamily T member 1	protein_coding
+ENSG00000001617	SEMA3F	semaphorin 3F	protein_coding
+ENSG00000240207		novel transcript, antisense to RARRES1	lncRNA
+ENSG00000224505	HEXIM2-AS1	HEXIM2 antisense RNA 1	lncRNA
+ENSG00000181085	MAPK15	mitogen-activated protein kinase 15	protein_coding
+ENSG00000183690	EFHC2	EF-hand domain containing 2	protein_coding
+ENSG00000137267	TUBB2A	tubulin beta 2A class IIa	protein_coding
+ENSG00000205403	CFI	complement factor I	protein_coding
+ENSG00000100558	PLEK2	pleckstrin 2	protein_coding
+ENSG00000164746	C7orf57	chromosome 7 open reading frame 57	protein_coding
+ENSG00000153347	FAM81B	family with sequence similarity 81 member B	protein_coding
+ENSG00000198873	GRK5	G protein-coupled receptor kinase 5	protein_coding
+ENSG00000135374	ELF5	E74 like ETS transcription factor 5	protein_coding
+ENSG00000232850	PTGES2-AS1	PTGES2 antisense RNA 1 (head to head)	lncRNA
+ENSG00000264112		novel transcript	lncRNA
+ENSG00000169851	PCDH7	protocadherin 7	protein_coding
+ENSG00000198502	HLA-DRB5	major histocompatibility complex, class II, DR beta 5	protein_coding
+ENSG00000236039	LINC02889	long intergenic non-protein coding RNA 2889	lncRNA
+ENSG00000288663		novel protein, readthrough PFDN5-C12orf10	lncRNA
+ENSG00000115758	ODC1	ornithine decarboxylase 1	protein_coding
+ENSG00000260417		novel transcript	lncRNA
+ENSG00000267416	HEATR6-DT	HEATR6 divergent transcript	lncRNA
+ENSG00000233725	NRAD1	non-coding RNA in the aldehyde dehydrogenase 1A pathway	lncRNA
+ENSG00000268104	SLC6A14	solute carrier family 6 member 14	protein_coding
+ENSG00000137752	CASP1	caspase 1	protein_coding
+ENSG00000146678	IGFBP1	insulin like growth factor binding protein 1	protein_coding
+ENSG00000224086	PPM1F-AS1	PPM1F antisense RNA 1	lncRNA
+ENSG00000103269	RHBDL1	rhomboid like 1	protein_coding
+ENSG00000102001	CACNA1F	calcium voltage-gated channel subunit alpha1 F	protein_coding
+ENSG00000057704	TMCC3	transmembrane and coiled-coil domain family 3	protein_coding
+ENSG00000129595	EPB41L4A	erythrocyte membrane protein band 4.1 like 4A	protein_coding
+ENSG00000137747	TMPRSS13	transmembrane serine protease 13	protein_coding
+ENSG00000170049	KCNAB3	potassium voltage-gated channel subfamily A regulatory beta subunit 3	protein_coding
+ENSG00000290993		novel transcript	lncRNA
+ENSG00000227388		novel transcript	lncRNA
+ENSG00000183833	CFAP91	cilia and flagella associated protein 91	protein_coding
+ENSG00000129654	FOXJ1	forkhead box J1	protein_coding
+ENSG00000172367	NHERF4	NHERF family PDZ scaffold protein 4	protein_coding
+ENSG00000241388	HNF1A-AS1	HNF1A antisense RNA 1	lncRNA
+ENSG00000007952	NOX1	NADPH oxidase 1	protein_coding
+ENSG00000127928	GNGT1	G protein subunit gamma transducin 1	protein_coding
+ENSG00000012504	NR1H4	nuclear receptor subfamily 1 group H member 4	protein_coding
+ENSG00000152611	CAPSL	calcyphosine like	protein_coding
+ENSG00000135636	DYSF	dysferlin	protein_coding
+ENSG00000129451	KLK10	kallikrein related peptidase 10	protein_coding
+ENSG00000242866	STRC	stereocilin	protein_coding
+ENSG00000139055	ERP27	endoplasmic reticulum protein 27	protein_coding
+ENSG00000284966		novel transcript, antisense to EFNB2	lncRNA
+ENSG00000167613	LAIR1	leukocyte associated immunoglobulin like receptor 1	protein_coding
+ENSG00000149294	NCAM1	neural cell adhesion molecule 1	protein_coding
+ENSG00000196126	HLA-DRB1	major histocompatibility complex, class II, DR beta 1	protein_coding
+ENSG00000198223	CSF2RA	colony stimulating factor 2 receptor subunit alpha	protein_coding
+ENSG00000146192	FGD2	FYVE, RhoGEF and PH domain containing 2	protein_coding
+ENSG00000163449	TMEM169	transmembrane protein 169	protein_coding
+ENSG00000263069	RNF213-AS1	RNF213 antisense RNA 1	lncRNA
+ENSG00000095932	SMIM24	small integral membrane protein 24	protein_coding
+ENSG00000073910	FRY	FRY microtubule binding protein	protein_coding
+ENSG00000083454	P2RX5	purinergic receptor P2X 5	protein_coding
+ENSG00000197191	CYSRT1	cysteine rich tail 1	protein_coding
+ENSG00000244055		novel transcript, antisense to ERVW-1 and PEX1	lncRNA
+ENSG00000177707	NECTIN3	nectin cell adhesion molecule 3	protein_coding
+ENSG00000166473	PKD1L2	polycystin 1 like 2 (gene/pseudogene)	protein_coding
+ENSG00000164266	SPINK1	serine peptidase inhibitor Kazal type 1	protein_coding
+ENSG00000111110	PPM1H	protein phosphatase, Mg2+/Mn2+ dependent 1H	protein_coding
+ENSG00000260265	LINC02562	long intergenic non-protein coding RNA 2562	lncRNA
+ENSG00000167676	PLIN4	perilipin 4	protein_coding
+ENSG00000279159		novel transcript, antisense to MTMR3	lncRNA
+ENSG00000136883	KIF12	kinesin family member 12	protein_coding
+ENSG00000115594	IL1R1	interleukin 1 receptor type 1	protein_coding
+ENSG00000257743	MGAM2	maltase-glucoamylase 2 (putative)	protein_coding
+ENSG00000121716	PILRB	paired immunoglobin like type 2 receptor beta	protein_coding
+ENSG00000165309	ARMC3	armadillo repeat containing 3	protein_coding
+ENSG00000087495	PHACTR3	phosphatase and actin regulator 3	protein_coding
+ENSG00000140968	IRF8	interferon regulatory factor 8	protein_coding
+ENSG00000280383		novel transcript, sense overlapping ATXN10	lncRNA
+ENSG00000177494	ZBED2	zinc finger BED-type containing 2	protein_coding
+ENSG00000171246	NPTX1	neuronal pentraxin 1	protein_coding
+ENSG00000205041		novel transcript, sense intronic to AKT2	lncRNA
+ENSG00000137959	IFI44L	interferon induced protein 44 like	protein_coding
+ENSG00000134138	MEIS2	Meis homeobox 2	protein_coding
+ENSG00000189433	GJB4	gap junction protein beta 4	protein_coding
+ENSG00000203952	CCDC160	coiled-coil domain containing 160	protein_coding
+ENSG00000100968	NFATC4	nuclear factor of activated T cells 4	protein_coding
+ENSG00000258465		novel protein	protein_coding
+ENSG00000077063	CTTNBP2	cortactin binding protein 2	protein_coding
+ENSG00000105426	PTPRS	protein tyrosine phosphatase receptor type S	protein_coding
+ENSG00000204323	SMIM5	small integral membrane protein 5	protein_coding
+ENSG00000197943	PLCG2	phospholipase C gamma 2	protein_coding
+ENSG00000128274	A4GALT	alpha 1,4-galactosyltransferase (P blood group)	protein_coding
+ENSG00000139631	CSAD	cysteine sulfinic acid decarboxylase	protein_coding
+ENSG00000138166	DUSP5	dual specificity phosphatase 5	protein_coding
+ENSG00000256671	LIMS4	LIM zinc finger domain containing 4	protein_coding
+ENSG00000069696	DRD4	dopamine receptor D4	protein_coding
+ENSG00000127249	ATP13A4	ATPase 13A4	protein_coding
+ENSG00000177640	CASC2	cancer susceptibility 2	lncRNA
+ENSG00000107159	CA9	carbonic anhydrase 9	protein_coding
+ENSG00000126822	PLEKHG3	pleckstrin homology and RhoGEF domain containing G3	protein_coding
+ENSG00000185513	L3MBTL1	L3MBTL histone methyl-lysine binding protein 1	protein_coding
+ENSG00000185015	CA13	carbonic anhydrase 13	protein_coding
+ENSG00000147027	TMEM47	transmembrane protein 47	protein_coding
+ENSG00000160781	PAQR6	progestin and adipoQ receptor family member 6	protein_coding
+ENSG00000234771	SLC25A25-AS1	SLC25A25 antisense RNA 1	lncRNA
+ENSG00000160185	UBASH3A	ubiquitin associated and SH3 domain containing A	protein_coding
+ENSG00000163075	CFAP221	cilia and flagella associated protein 221	protein_coding
+ENSG00000176155	CCDC57	coiled-coil domain containing 57	protein_coding
+ENSG00000157765	SLC34A2	solute carrier family 34 member 2	protein_coding
+ENSG00000126709	IFI6	interferon alpha inducible protein 6	protein_coding
+ENSG00000283199	C13orf46	chromosome 13 open reading frame 46	protein_coding
+ENSG00000118849	RARRES1	retinoic acid receptor responder 1	protein_coding
+ENSG00000069482	GAL	galanin and GMAP prepropeptide	protein_coding
+ENSG00000196549	MME	membrane metalloendopeptidase	protein_coding
+ENSG00000170099	SERPINA6	serpin family A member 6	protein_coding
+ENSG00000171243	SOSTDC1	sclerostin domain containing 1	protein_coding
+ENSG00000286081		novel transcript	lncRNA
+ENSG00000173214	MFSD4B	major facilitator superfamily domain containing 4B	protein_coding
+ENSG00000033170	FUT8	fucosyltransferase 8	protein_coding
+ENSG00000109099	PMP22	peripheral myelin protein 22	protein_coding
+ENSG00000175445	LPL	lipoprotein lipase	protein_coding
+ENSG00000126562	WNK4	WNK lysine deficient protein kinase 4	protein_coding
+ENSG00000135480	KRT7	keratin 7	protein_coding
+ENSG00000118922	KLF12	KLF transcription factor 12	protein_coding
+ENSG00000197603	CPLANE1	ciliogenesis and planar polarity effector complex subunit 1	protein_coding
+ENSG00000205890		novel transcript, antisense to CCDC64B	lncRNA
+ENSG00000254290		novel transcript	lncRNA
+ENSG00000233806	LINC01237	long intergenic non-protein coding RNA 1237	lncRNA
+ENSG00000230358	SPDYE21	speedy/RINGO cell cycle regulator family member E21	protein_coding
+ENSG00000165269	AQP7	aquaporin 7	protein_coding
+ENSG00000161381	PLXDC1	plexin domain containing 1	protein_coding
+ENSG00000279277		novel transcript	lncRNA
+ENSG00000144820	ADGRG7	adhesion G protein-coupled receptor G7	protein_coding
+ENSG00000009950	MLXIPL	MLX interacting protein like	protein_coding
+ENSG00000185745	IFIT1	interferon induced protein with tetratricopeptide repeats 1	protein_coding
+ENSG00000244731	C4A	complement C4A (Rodgers blood group)	protein_coding
+ENSG00000172264	MACROD2	mono-ADP ribosylhydrolase 2	protein_coding
+ENSG00000162896	PIGR	polymeric immunoglobulin receptor	protein_coding
+ENSG00000168874	ATOH8	atonal bHLH transcription factor 8	protein_coding
+ENSG00000196664	TLR7	toll like receptor 7	protein_coding
+ENSG00000178538	CA8	carbonic anhydrase 8	protein_coding
+ENSG00000139971	ARMH4	armadillo like helical domain containing 4	protein_coding
+ENSG00000206075	SERPINB5	serpin family B member 5	protein_coding
+ENSG00000261326	LINC01355	long intergenic non-protein coding RNA 1355	lncRNA
+ENSG00000286282		novel transcript, antisense to NOV	lncRNA
+ENSG00000127954	STEAP4	STEAP4 metalloreductase	protein_coding
+ENSG00000235621	LINC00494	long intergenic non-protein coding RNA 494	lncRNA
+ENSG00000171621	SPSB1	splA/ryanodine receptor domain and SOCS box containing 1	protein_coding
+ENSG00000253598	SLC10A5	solute carrier family 10 member 5	protein_coding
+ENSG00000276116	FUT8-AS1	FUT8 antisense RNA 1	lncRNA
+ENSG00000170298	LGALS9B	galectin 9B	protein_coding
+ENSG00000274512	TBC1D3L	TBC1 domain family member 3L	protein_coding
+ENSG00000049089	COL9A2	collagen type IX alpha 2 chain	protein_coding
+ENSG00000112164	GLP1R	glucagon like peptide 1 receptor	protein_coding
+ENSG00000166780	BMERB1	bMERB domain containing 1	protein_coding
+ENSG00000214021	TTLL3	tubulin tyrosine ligase like 3	protein_coding
+ENSG00000114670	NEK11	NIMA related kinase 11	protein_coding
+ENSG00000167653	PSCA	prostate stem cell antigen	protein_coding
+ENSG00000147041	SYTL5	synaptotagmin like 5	protein_coding
+ENSG00000182463	TSHZ2	teashirt zinc finger homeobox 2	protein_coding
+ENSG00000121895	TMEM156	transmembrane protein 156	protein_coding
+ENSG00000247134		novel transcript	lncRNA
+ENSG00000285517	LINC00941	long intergenic non-protein coding RNA 941	lncRNA
+ENSG00000196696	PDXDC2P-NPIPB14P	PDXDC2P-NPIPB14P readthrough, transcribed pseudogene	lncRNA
+ENSG00000286974		novel transcript, antisense to TNXB	lncRNA
+ENSG00000291076	AADACP1	arylacetamide deacetylase pseudogene 1	lncRNA
+ENSG00000231389	HLA-DPA1	major histocompatibility complex, class II, DP alpha 1	protein_coding
+ENSG00000138400	MDH1B	malate dehydrogenase 1B	protein_coding
+ENSG00000157335	CLEC18C	C-type lectin domain family 18 member C	protein_coding
+ENSG00000253414	LINC01605	long intergenic non-protein coding RNA 1605	lncRNA
+ENSG00000176593	ZNF606-AS1	ZNF606 antisense RNA 1	lncRNA
+ENSG00000179082	LINC02913	long intergenic non-protein coding RNA 2913	lncRNA
+ENSG00000013297	CLDN11	claudin 11	protein_coding
+ENSG00000008226	DLEC1	DLEC1 cilia and flagella associated protein	protein_coding
+ENSG00000196502	SULT1A1	sulfotransferase family 1A member 1	protein_coding
+ENSG00000187094	CCK	cholecystokinin	protein_coding
+ENSG00000249196	TMEM132D-AS1	TMEM132D antisense RNA 1	lncRNA
+ENSG00000076356	PLXNA2	plexin A2	protein_coding
+ENSG00000254815	LMNTD2-AS1	LMNTD2 antisense RNA 1	lncRNA
+ENSG00000142484	TM4SF5	transmembrane 4 L six family member 5	protein_coding
+ENSG00000125255	SLC10A2	solute carrier family 10 member 2	protein_coding
+ENSG00000116711	PLA2G4A	phospholipase A2 group IVA	protein_coding
+ENSG00000159167	STC1	stanniocalcin 1	protein_coding
+ENSG00000173947	CIMAP3	ciliary microtubule associated protein 3	protein_coding
+ENSG00000267199		novel transcript, antisense SPIRE1	lncRNA
+ENSG00000206530	CFAP44	cilia and flagella associated protein 44	protein_coding
+ENSG00000153930	ANKFN1	ankyrin repeat and fibronectin type III domain containing 1	protein_coding
+ENSG00000269113	TRABD2B	TraB domain containing 2B	protein_coding
+ENSG00000156042	CFAP70	cilia and flagella associated protein 70	protein_coding
+ENSG00000213085	CFAP45	cilia and flagella associated protein 45	protein_coding
+ENSG00000124215	CDH26	cadherin 26	protein_coding
+ENSG00000244122	UGT1A7	UDP glucuronosyltransferase family 1 member A7	protein_coding
+ENSG00000185432	TMT1A	thiol methyltransferase 1A	protein_coding
+ENSG00000204252	HLA-DOA	major histocompatibility complex, class II, DO alpha	protein_coding
+ENSG00000163638	ADAMTS9	ADAM metallopeptidase with thrombospondin type 1 motif 9	protein_coding
+ENSG00000289791		novel protein	protein_coding
+ENSG00000169583	CLIC3	chloride intracellular channel 3	protein_coding
+ENSG00000249464	LINC01091	long intergenic non-protein coding RNA 1091	lncRNA
+ENSG00000106404	CLDN15	claudin 15	protein_coding
+ENSG00000123843	C4BPB	complement component 4 binding protein beta	protein_coding
+ENSG00000011590	ZBTB32	zinc finger and BTB domain containing 32	protein_coding
+ENSG00000056998	GYG2	glycogenin 2	protein_coding
+ENSG00000161905	ALOX15	arachidonate 15-lipoxygenase	protein_coding
+ENSG00000250722	SELENOP	selenoprotein P	protein_coding
+ENSG00000242574	HLA-DMB	major histocompatibility complex, class II, DM beta	protein_coding
+ENSG00000293550		novel transcript	lncRNA
+ENSG00000164236	ANKRD33B	ankyrin repeat domain 33B	protein_coding
+ENSG00000187608	ISG15	ISG15 ubiquitin like modifier	protein_coding
+ENSG00000279278		novel transcript	lncRNA
+ENSG00000183780	SLC35F3	solute carrier family 35 member F3	protein_coding
+ENSG00000213626	LBH	LBH regulator of WNT signaling pathway	protein_coding
+ENSG00000173467	AGR3	anterior gradient 3, protein disulphide isomerase family member	protein_coding
+ENSG00000240583	AQP1	aquaporin 1 (Colton blood group)	protein_coding
+ENSG00000168675	LDLRAD4	low density lipoprotein receptor class A domain containing 4	protein_coding
+ENSG00000205560	CPT1B	carnitine palmitoyltransferase 1B	protein_coding
+ENSG00000168772	CXXC4	CXXC finger protein 4	protein_coding
+ENSG00000182809	CRIP2	cysteine rich protein 2	protein_coding
+ENSG00000158286	RNF207	ring finger protein 207	protein_coding
+ENSG00000162078	ZG16B	zymogen granule protein 16B	protein_coding
+ENSG00000166278	C2	complement C2	protein_coding
+ENSG00000241119	UGT1A9	UDP glucuronosyltransferase family 1 member A9	protein_coding
+ENSG00000114279	FGF12	fibroblast growth factor 12	protein_coding
+ENSG00000102879	CORO1A	coronin 1A	protein_coding
+ENSG00000142065	ZFP14	ZFP14 zinc finger protein	protein_coding
+ENSG00000163283	ALPP	alkaline phosphatase, placental	protein_coding
+ENSG00000136457	CHAD	chondroadherin	protein_coding
+ENSG00000204219	TCEA3	transcription elongation factor A3	protein_coding
+ENSG00000139209	SLC38A4	solute carrier family 38 member 4	protein_coding
+ENSG00000271605	MILR1	mast cell immunoglobulin like receptor 1	protein_coding
+ENSG00000204410	MSH5	mutS homolog 5	protein_coding
+ENSG00000134258	VTCN1	V-set domain containing T cell activation inhibitor 1	protein_coding
+ENSG00000177469	CAVIN1	caveolae associated protein 1	protein_coding
+ENSG00000218416	GPC1-AS1	GPC1 antisense RNA 1	lncRNA
+ENSG00000129048	ACKR4	atypical chemokine receptor 4	protein_coding
+ENSG00000100156	SLC16A8	solute carrier family 16 member 8	protein_coding
+ENSG00000111335	OAS2	2'-5'-oligoadenylate synthetase 2	protein_coding
+ENSG00000275896	PRSS2	serine protease 2	protein_coding
+ENSG00000007062	PROM1	prominin 1	protein_coding
+ENSG00000114656	CFAP92	cilia and flagella associated protein 92 (putative)	protein_coding
+ENSG00000284638	SMIM44	small integral membrane protein 44	protein_coding
+ENSG00000139278	GLIPR1	GLI pathogenesis related 1	protein_coding
+ENSG00000196132	MYT1	myelin transcription factor 1	protein_coding
+ENSG00000278709	NKILA	NF-kappaB interacting lncRNA	lncRNA
+ENSG00000101188	NTSR1	neurotensin receptor 1	protein_coding
+ENSG00000105707	HPN	hepsin	protein_coding
+ENSG00000069535	MAOB	monoamine oxidase B	protein_coding
+ENSG00000101134	DOK5	docking protein 5	protein_coding
+ENSG00000255339		NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 8, 19kDa (NDUFB8) and SEC31 homolog B (S. cerevisiae) (SEC31B) readthrough	protein_coding
+ENSG00000136014	USP44	ubiquitin specific peptidase 44	protein_coding
+ENSG00000142621	FHAD1	forkhead associated phosphopeptide binding domain 1	protein_coding
+ENSG00000176692	FOXC2	forkhead box C2	protein_coding
+ENSG00000249007		novel transcript	lncRNA
+ENSG00000185250	PPIL6	peptidylprolyl isomerase like 6	protein_coding
+ENSG00000132746	ALDH3B2	aldehyde dehydrogenase 3 family member B2	protein_coding
+ENSG00000223812	PYDC2-AS1	PYDC2 antisense RNA 1	lncRNA
+ENSG00000197635	DPP4	dipeptidyl peptidase 4	protein_coding
+ENSG00000143847	PPFIA4	PTPRF interacting protein alpha 4	protein_coding
+ENSG00000142606	MMEL1	membrane metalloendopeptidase like 1	protein_coding
+ENSG00000107984	DKK1	dickkopf WNT signaling pathway inhibitor 1	protein_coding
+ENSG00000161714	PLCD3	phospholipase C delta 3	protein_coding
+ENSG00000153208	MERTK	MER proto-oncogene, tyrosine kinase	protein_coding
+ENSG00000284820		novel protein	protein_coding
+ENSG00000285979		novel transcript, antisense to FAM192A	lncRNA
+ENSG00000182983	ZNF662	zinc finger protein 662	protein_coding
+ENSG00000187908	DMBT1	deleted in malignant brain tumors 1	protein_coding
+ENSG00000082014	SMARCD3	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 3	protein_coding
+ENSG00000080493	SLC4A4	solute carrier family 4 member 4	protein_coding
+ENSG00000152953	STK32B	serine/threonine kinase 32B	protein_coding
+ENSG00000001626	CFTR	CF transmembrane conductance regulator	protein_coding
+ENSG00000159713	TPPP3	tubulin polymerization promoting protein family member 3	protein_coding
+ENSG00000182326	C1S	complement C1s	protein_coding
+ENSG00000151224	MAT1A	methionine adenosyltransferase 1A	protein_coding
+ENSG00000151136	ABTB3	ankyrin repeat and BTB domain containing 3	protein_coding
+ENSG00000198064	NPIPB13	nuclear pore complex interacting protein family, member B13	protein_coding
+ENSG00000172828	CES3	carboxylesterase 3	protein_coding
+ENSG00000272668		novel transcript, antisense to VSIG8	lncRNA
+ENSG00000127419	TMEM175	transmembrane protein 175	protein_coding
+ENSG00000104899	AMH	anti-Mullerian hormone	protein_coding
+ENSG00000256977	LIMS3	LIM zinc finger domain containing 3	protein_coding
+ENSG00000290585		novel transcript	lncRNA
+ENSG00000113303	BTNL8	butyrophilin like 8	protein_coding
+ENSG00000075213	SEMA3A	semaphorin 3A	protein_coding
+ENSG00000157856	DRC1	dynein regulatory complex subunit 1	protein_coding
+ENSG00000178726	THBD	thrombomodulin	protein_coding
+ENSG00000269693		novel transcript	protein_coding
+ENSG00000122547	EEPD1	endonuclease/exonuclease/phosphatase family domain containing 1	protein_coding
+ENSG00000204287	HLA-DRA	major histocompatibility complex, class II, DR alpha	protein_coding
+ENSG00000163462	TRIM46	tripartite motif containing 46	protein_coding
+ENSG00000277128		novel transcript	lncRNA
+ENSG00000169507	SLC38A11	solute carrier family 38 member 11	protein_coding
+ENSG00000154099	DNAAF1	dynein axonemal assembly factor 1	protein_coding
+ENSG00000135407	AVIL	advillin	protein_coding
+ENSG00000197580	BCO2	beta-carotene oxygenase 2	protein_coding
+ENSG00000286785	LINC01622	long intergenic non-protein coding RNA 1622	lncRNA
+ENSG00000185245	GP1BA	glycoprotein Ib platelet subunit alpha	protein_coding
+ENSG00000267016		novel transcript, antisense to SEPT9	lncRNA
+ENSG00000176697	BDNF	brain derived neurotrophic factor	protein_coding
+ENSG00000176907	TCIM	transcriptional and immune response regulator	protein_coding
+ENSG00000291130		novel transcript	lncRNA
+ENSG00000262633		novel protein	protein_coding
+ENSG00000181143	MUC16	mucin 16, cell surface associated	protein_coding
+ENSG00000124588	NQO2	N-ribosyldihydronicotinamide:quinone dehydrogenase 2	protein_coding
+ENSG00000182901	RGS7	regulator of G protein signaling 7	protein_coding
+ENSG00000089820	ARHGAP4	Rho GTPase activating protein 4	protein_coding
+ENSG00000266086		novel transcript	protein_coding
+ENSG00000259704		novel transcript, sense overlapping 3' UTR of BLM	lncRNA
+ENSG00000279342		novel transcript, sense intronic to MSANTD2	lncRNA
+ENSG00000144837	PLA1A	phospholipase A1 member A	protein_coding
+ENSG00000133640	LRRIQ1	leucine rich repeats and IQ motif containing 1	protein_coding
+ENSG00000162571	TTLL10	tubulin tyrosine ligase like 10	protein_coding
+ENSG00000185567	AHNAK2	AHNAK nucleoprotein 2	protein_coding
+ENSG00000196296	ATP2A1	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 1	protein_coding
+ENSG00000135744	AGT	angiotensinogen	protein_coding
+ENSG00000176049	JAKMIP2	janus kinase and microtubule interacting protein 2	protein_coding
+ENSG00000112303	VNN2	vanin 2	protein_coding
+ENSG00000138678	GPAT3	glycerol-3-phosphate acyltransferase 3	protein_coding
+ENSG00000141519	CCDC40	coiled-coil domain containing 40	protein_coding
+ENSG00000100079	LGALS2	galectin 2	protein_coding
+ENSG00000157423	HYDIN	HYDIN axonemal central pair apparatus protein	protein_coding
+ENSG00000223865	HLA-DPB1	major histocompatibility complex, class II, DP beta 1	protein_coding
+ENSG00000155530	LRGUK	leucine rich repeats and guanylate kinase domain containing	protein_coding
+ENSG00000170775	GPR37	G protein-coupled receptor 37	protein_coding
+ENSG00000290385		novel transcript	lncRNA
+ENSG00000163286	ALPG	alkaline phosphatase, germ cell	protein_coding
+ENSG00000165949	IFI27	interferon alpha inducible protein 27	protein_coding
+ENSG00000070985	TRPM5	transient receptor potential cation channel subfamily M member 5	protein_coding
+ENSG00000290682	STAG3L5P	STAG3 cohesin complex component like 5, pseudogene	lncRNA
+ENSG00000014257	ACP3	acid phosphatase 3	protein_coding
+ENSG00000102003	SYP	synaptophysin	protein_coding
+ENSG00000171014	OR4D5	olfactory receptor family 4 subfamily D member 5	protein_coding
+ENSG00000105519	CAPS	calcyphosine	protein_coding
+ENSG00000231881		novel transcript	lncRNA
+ENSG00000251562	MALAT1	metastasis associated lung adenocarcinoma transcript 1	lncRNA
+ENSG00000101384	JAG1	jagged canonical Notch ligand 1	protein_coding
+ENSG00000241935	HOGA1	4-hydroxy-2-oxoglutarate aldolase 1	protein_coding
+ENSG00000165556	CDX2	caudal type homeobox 2	protein_coding
+ENSG00000179583	CIITA	class II major histocompatibility complex transactivator	protein_coding

@@ -1,0 +1,115 @@
+ENSEMBL	Symbol	Description	Biotype
+ENSG00000189431	RASSF10	Ras association domain family member 10	protein_coding
+ENSG00000168955	TM4SF20	transmembrane 4 L six family member 20	protein_coding
+ENSG00000158427	TMSB15B	thymosin beta 15B	protein_coding
+ENSG00000197353	LYPD2	LY6/PLAUR domain containing 2	protein_coding
+ENSG00000106211	HSPB1	heat shock protein family B (small) member 1	protein_coding
+ENSG00000257335	MGAM	maltase-glucoamylase	protein_coding
+ENSG00000121552	CSTA	cystatin A	protein_coding
+ENSG00000275395	FCGBP	Fc gamma binding protein	protein_coding
+ENSG00000023445	BIRC3	baculoviral IAP repeat containing 3	protein_coding
+ENSG00000020181	ADGRA2	adhesion G protein-coupled receptor A2	protein_coding
+ENSG00000102837	OLFM4	olfactomedin 4	protein_coding
+ENSG00000189377	CXCL17	C-X-C motif chemokine ligand 17	protein_coding
+ENSG00000163803	PLB1	phospholipase B1	protein_coding
+ENSG00000247809	NR2F2-AS1	NR2F2 antisense RNA 1	lncRNA
+ENSG00000152784	PRDM8	PR/SET domain 8	protein_coding
+ENSG00000229056	HECW2-AS1	HECW2 antisense RNA 1	lncRNA
+ENSG00000135074	ADAM19	ADAM metallopeptidase domain 19	protein_coding
+ENSG00000114248	LRRC31	leucine rich repeat containing 31	protein_coding
+ENSG00000291105		novel transcript	lncRNA
+ENSG00000101825	MXRA5	matrix remodeling associated 5	protein_coding
+ENSG00000122786	CALD1	caldesmon 1	protein_coding
+ENSG00000117983	MUC5B	mucin 5B, oligomeric mucus/gel-forming	protein_coding
+ENSG00000224259	LINC01133	long intergenic non-protein coding RNA 1133	lncRNA
+ENSG00000026751	SLAMF7	SLAM family member 7	protein_coding
+ENSG00000169252	ADRB2	adrenoceptor beta 2	protein_coding
+ENSG00000264230	ANXA8L1	annexin A8 like 1	protein_coding
+ENSG00000137673	MMP7	matrix metallopeptidase 7	protein_coding
+ENSG00000142156	COL6A1	collagen type VI alpha 1 chain	protein_coding
+ENSG00000285933		novel transcript	lncRNA
+ENSG00000163297	ANTXR2	ANTXR cell adhesion molecule 2	protein_coding
+ENSG00000115414	FN1	fibronectin 1	protein_coding
+ENSG00000145536	ADAMTS16	ADAM metallopeptidase with thrombospondin type 1 motif 16	protein_coding
+ENSG00000196352	CD55	CD55 molecule (Cromer blood group)	protein_coding
+ENSG00000179083	FAM133A	family with sequence similarity 133 member A	protein_coding
+ENSG00000111341	MGP	matrix Gla protein	protein_coding
+ENSG00000248144	ADH1C	alcohol dehydrogenase 1C (class I), gamma polypeptide	protein_coding
+ENSG00000172955	ADH6	alcohol dehydrogenase 6 (class V)	protein_coding
+ENSG00000019582	CD74	CD74 molecule	protein_coding
+ENSG00000151388	ADAMTS12	ADAM metallopeptidase with thrombospondin type 1 motif 12	protein_coding
+ENSG00000261371	PECAM1	platelet and endothelial cell adhesion molecule 1	protein_coding
+ENSG00000179542	SLITRK4	SLIT and NTRK like family member 4	protein_coding
+ENSG00000271503	CCL5	C-C motif chemokine ligand 5	protein_coding
+ENSG00000170558	CDH2	cadherin 2	protein_coding
+ENSG00000115602	IL1RL1	interleukin 1 receptor like 1	protein_coding
+ENSG00000244128	LINC01322	long intergenic non-protein coding RNA 1322	lncRNA
+ENSG00000135454	B4GALNT1	beta-1,4-N-acetyl-galactosaminyltransferase 1	protein_coding
+ENSG00000185737	NRG3	neuregulin 3	protein_coding
+ENSG00000090382	LYZ	lysozyme	protein_coding
+ENSG00000106538	RARRES2	retinoic acid receptor responder 2	protein_coding
+ENSG00000100100	PIK3IP1	phosphoinositide-3-kinase interacting protein 1	protein_coding
+ENSG00000187601	MAGEH1	MAGE family member H1	protein_coding
+ENSG00000167741	GGT6	gamma-glutamyltransferase 6	protein_coding
+ENSG00000164125	GASK1B	golgi associated kinase 1B	protein_coding
+ENSG00000213199	ASIC3	acid sensing ion channel subunit 3	protein_coding
+ENSG00000170681	CAVIN4	caveolae associated protein 4	protein_coding
+ENSG00000164659	ELAPOR2	endosome-lysosome associated apoptosis and autophagy regulator family member 2	protein_coding
+ENSG00000162543	UBXN10	UBX domain protein 10	protein_coding
+ENSG00000251629	LINC02241	long intergenic non-protein coding RNA 2241	lncRNA
+ENSG00000142619	PADI3	peptidyl arginine deiminase 3	protein_coding
+ENSG00000131016	AKAP12	A-kinase anchoring protein 12	protein_coding
+ENSG00000289548		novel transcript	lncRNA
+ENSG00000196188	CTSE	cathepsin E	protein_coding
+ENSG00000265190	ANXA8	annexin A8	protein_coding
+ENSG00000231013	SCTR-AS1	SCTR antisense RNA 1	lncRNA
+ENSG00000169213	RAB3B	RAB3B, member RAS oncogene family	protein_coding
+ENSG00000169436	COL22A1	collagen type XXII alpha 1 chain	protein_coding
+ENSG00000189334	S100A14	S100 calcium binding protein A14	protein_coding
+ENSG00000135917	SLC19A3	solute carrier family 19 member 3	protein_coding
+ENSG00000132911	NMUR2	neuromedin U receptor 2	protein_coding
+ENSG00000180251	SLC9A4	solute carrier family 9 member A4	protein_coding
+ENSG00000102678	FGF9	fibroblast growth factor 9	protein_coding
+ENSG00000131746	TNS4	tensin 4	protein_coding
+ENSG00000134363	FST	follistatin	protein_coding
+ENSG00000151651	ADAM8	ADAM metallopeptidase domain 8	protein_coding
+ENSG00000113327	GABRG2	gamma-aminobutyric acid type A receptor subunit gamma2	protein_coding
+ENSG00000115380	EFEMP1	EGF containing fibulin extracellular matrix protein 1	protein_coding
+ENSG00000146674	IGFBP3	insulin like growth factor binding protein 3	protein_coding
+ENSG00000070526	ST6GALNAC1	ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 1	protein_coding
+ENSG00000159618	ADGRG5	adhesion G protein-coupled receptor G5	protein_coding
+ENSG00000136244	IL6	interleukin 6	protein_coding
+ENSG00000068078	FGFR3	fibroblast growth factor receptor 3	protein_coding
+ENSG00000108691	CCL2	C-C motif chemokine ligand 2	protein_coding
+ENSG00000226887	ERVMER34-1	endogenous retrovirus group MER34 member 1, envelope	protein_coding
+ENSG00000244649	LINC02086	long intergenic non-protein coding RNA 2086	lncRNA
+ENSG00000180730	SHISA2	shisa family member 2	protein_coding
+ENSG00000172794	RAB37	RAB37, member RAS oncogene family	protein_coding
+ENSG00000152661	GJA1	gap junction protein alpha 1	protein_coding
+ENSG00000134827	TCN1	transcobalamin 1	protein_coding
+ENSG00000138271	GPR87	G protein-coupled receptor 87	protein_coding
+ENSG00000100311	PDGFB	platelet derived growth factor subunit B	protein_coding
+ENSG00000196611	MMP1	matrix metallopeptidase 1	protein_coding
+ENSG00000213145	CRIP1	cysteine rich protein 1	protein_coding
+ENSG00000198848	CES1	carboxylesterase 1	protein_coding
+ENSG00000171747	LGALS4	galectin 4	protein_coding
+ENSG00000117009	KMO	kynurenine 3-monooxygenase	protein_coding
+ENSG00000175544	CABP4	calcium binding protein 4	protein_coding
+ENSG00000134955	SLC37A2	solute carrier family 37 member 2	protein_coding
+ENSG00000231826	LINC01819	long intergenic non-protein coding RNA 1819	lncRNA
+ENSG00000291166		novel transcript	lncRNA
+ENSG00000103056	SMPD3	sphingomyelin phosphodiesterase 3	protein_coding
+ENSG00000166741	NNMT	nicotinamide N-methyltransferase	protein_coding
+ENSG00000144824	PHLDB2	pleckstrin homology like domain family B member 2	protein_coding
+ENSG00000042062	RIPOR3	RIPOR family member 3	protein_coding
+ENSG00000163220	S100A9	S100 calcium binding protein A9	protein_coding
+ENSG00000198535	C2CD4A	C2 calcium dependent domain containing 4A	protein_coding
+ENSG00000174640	SLCO2A1	solute carrier organic anion transporter family member 2A1	protein_coding
+ENSG00000125999	BPIFB1	BPI fold containing family B member 1	protein_coding
+ENSG00000173175	ADCY5	adenylate cyclase 5	protein_coding
+ENSG00000272602	ZNF595	zinc finger protein 595	protein_coding
+ENSG00000108176	DNAJC12	DnaJ heat shock protein family (Hsp40) member C12	protein_coding
+ENSG00000169248	CXCL11	C-X-C motif chemokine ligand 11	protein_coding
+ENSG00000144481	TRPM8	transient receptor potential cation channel subfamily M member 8	protein_coding
+ENSG00000164825	DEFB1	defensin beta 1	protein_coding
+ENSG00000127920	GNG11	G protein subunit gamma 11	protein_coding
